@@ -38,8 +38,8 @@ The generated `.py` file is designed to be run directly using `python <generated
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repo-url>
-    cd <your-repo-name>
+    git clone https://github.com/srinath-96/Dashboard_generator/
+    cd Dashboard_generator
     ```
 
 2.  **Create a Virtual Environment (Recommended):**
